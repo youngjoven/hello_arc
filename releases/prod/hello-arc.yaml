@@ -16,4 +16,4 @@ spec:
     replicaCount: 3
     env:
       name: MESSAGE
-      value: Azure Arc enabled K8s GitOps Demo!
+      value: Young is Young!
